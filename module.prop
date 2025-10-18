@@ -1,7 +1,0 @@
-id=yadoru
-name=Yadoru
-version=v0.1
-versionCode=1
-author=lktr
-description=Enables selected apps to gain root access using a custom method. Offers an action menu. (Maybe will be implemented through KsuWebUI or a separate app in the future)
-action=action.sh
