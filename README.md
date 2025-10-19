@@ -12,7 +12,7 @@ Just simply flash the module through the Magisk app, and there you go!
 
 Provides root access to any app you select.
 
-Lightweight and compatible with Magisk.
+Lightweight and compatible with Magisk v29.0+.
 
 Integrated actions menu.
 
